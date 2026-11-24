@@ -13,6 +13,9 @@
 
 <p><I> ✎ Hiya... I'm Foxy or Foxxerz!! Or like. whatever else you wanna call me. I'm not very picky. </p></I>
 
+<div align=center> <img src="https://64.media.tumblr.com/168bec8743667a9d107a73f1b309f803/009ae990ece3597e-ea/s250x400/47be4b72dae8dad1d44118040a61ad482786b191.gif"/>
+
+
 <div align=center> ᴇxᴛʀᴀ ᴘᴀɢᴇꜱ + ᴍᴇɴᴛɪᴏɴꜱ ᰔᩚ
 <details>
 <summary>  ๋࣭ ⭑ ☾ ˖° ⋆✧˖｡ </summary>
