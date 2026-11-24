@@ -35,7 +35,7 @@
          <table>
     <tr>
       <td>
-     [Soren:](https://github.com/necromancing)
+     
       </td>
     </tr>
   </table>
