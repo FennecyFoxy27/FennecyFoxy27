@@ -36,6 +36,7 @@
   <p><I> ✎ I enjoy horror, with psychological horror being my most favored. I have known people to be uncomfortable with this kind of this, so feel free to not interact if you do not like this! You are also welcome to interact anyways, just tell me ahead of time whether or not you're comfy with it!! </I></p>
   <p><I> ✎ I love researching about mental and physical disorders in both humans AND animals. If I bring up something that makes you uncomfy, tell me! </I></p>
   <p><I> ✎ If I say something that bothers you, or if I'm coming off as hostile/rude with my teasing/jokes, <b>TELL ME!!</b> I swear to you, 99% of the time I am not intentionally trying to make you uncomfortable or upset! I usually express affection through teasing people, but I understand that not everyone enjoys that kind of thing! I won't know unless you tell me. </I></p>
+    <p><I> ✎ I may ask questions about certain topics, identities, terms, or likewise. This does not come from a place of malice, but genuine curiosity! If I come off rude when asking, I'm super sorry! :( </I></p>
 </details>
 
 <div align=center> <img alt="divider" src="https://github.com/user-attachments/assets/05f0bc44-461a-4746-acd0-32579cdba9f0" /> </div>
