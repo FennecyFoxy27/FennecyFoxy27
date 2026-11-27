@@ -71,5 +71,6 @@
   </table>
 </details>
 
+<a href="https://hits.sh/github.com/FennecyFoxy27/"><img alt="Hits" src="https://hits.sh/github.com/FennecyFoxy27.svg?style=plastic&label=Home%20Vistors%20%E2%99%A1&color=ffffa3&labelColor=fcfce8"/></a>
   
 <div align=right> <img alt="sparkles" src="https://github.com/user-attachments/assets/34c15a3e-8d35-47ed-9231-7495f694ac09" /> </div> <div align=left> <img alt="sparkles" src="https://github.com/user-attachments/assets/34c15a3e-8d35-47ed-9231-7495f694ac09" /> </div>
